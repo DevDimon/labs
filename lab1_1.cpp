@@ -6,8 +6,8 @@ using namespace std;
 
 int main(void)
 {
-    int a, b, P, S;
-    float c;
+    int a, b, P;
+    float c, S;
 
     cout << "a=";
     cin >> a;
