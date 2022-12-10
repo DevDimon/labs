@@ -15,10 +15,10 @@ int main(void)
     cin >> b;
 
     c = sqrt(pow(a, 2) + pow(b, 2));
-    cout << "c=" << c << "\n";
+    cout << "c=" << c << std::endl;
 
     P = a + b + c;
-    cout << "P=" << P << "\n";
+    cout << "P=" << P << std::endl;
 
     S = (a * b) / 2;
     cout << "S=" << S;
