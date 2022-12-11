@@ -18,5 +18,5 @@ int main(void)
     cout << "    y = ";
     cin >> By;
     AB = sqrt(pow(Bx - Ax, 2) + pow(By - Ay, 2));
-    cout << "Длина отрезка AB =" << AB;
+    cout << "Длина отрезка AB = " << AB;
 }
