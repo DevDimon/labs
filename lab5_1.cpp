@@ -15,7 +15,7 @@ int main(void)
     cout << "Введите элементы массива:\n";
     for (i = 0; i < N; i++)
     {
-        cout << "Value[" << i << "] -> ";
+        cout << "Value[" << i + 1 << "] -> ";
         cin >> Value[i];
     }
 
