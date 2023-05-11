@@ -3,9 +3,6 @@
 #include <stdio.h>
 #include <string>
 
-#define MAXN 25
-#define EMPTY_STR ""
-
 using namespace std;
 
 struct teamItem
